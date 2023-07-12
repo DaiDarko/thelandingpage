@@ -167,7 +167,7 @@ button {
 /* Styles for action section */
 .action{
     display:flex;
-    padding-block: 50px;
+    padding-block: 100px;
     justify-content: center;
     align-items: center;
     
