@@ -44,7 +44,6 @@ body {
 
 /* Styles for Hero section */
 .hero{
-    display:flex;
     justify-content: center;
     align-content:center;
     padding-block:50px 125px;
@@ -144,7 +143,6 @@ button {
 .quote{
     background-color: #e5e7eb;
     padding:100px 300px;
-    display:flex;
     flex-direction: column;
 }
 
@@ -166,7 +164,6 @@ button {
 
 /* Styles for action section */
 .action{
-    display:flex;
     padding-block: 100px;
     justify-content: center;
     align-items: center;
@@ -197,7 +194,6 @@ button {
 }
 
 .footer{
-    display: flex;
     justify-content: center;
     align-items: center;
     padding-block: 30px;
